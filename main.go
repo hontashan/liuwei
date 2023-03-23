@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/AMySelf/Microsoft/reward_Remote/reward"
+	"github.com/hontashan/liuwei/reward"
 	"log"
 	"time"
 )
